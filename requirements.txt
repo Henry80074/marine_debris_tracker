@@ -1,0 +1,60 @@
+affine==2.3.0
+arrow==1.2.2
+attrs==21.4.0
+beautifulsoup4==4.10.0
+Cartopy @ file:///C:/Users/3henr/Downloads/Cartopy-0.20.2-cp39-cp39-win_amd64.whl
+certifi==2021.10.8
+charset-normalizer==2.0.12
+click==8.0.4
+click-plugins==1.1.1
+cligj==0.7.2
+colorama==0.4.4
+cycler==0.11.0
+docopt==0.6.2
+Fiona @ file:///C:/Users/3henr/Downloads/Fiona-1.8.21-cp39-cp39-win_amd64.whl
+Flask==2.0.3
+fonttools==4.30.0
+GDAL @ file:///C:/Users/3henr/Downloads/GDAL-3.4.1-cp39-cp39-win_amd64.whl
+geojson==2.5.0
+geomet==0.3.0
+geopandas==0.10.2
+geos==0.2.3
+html2text==2020.1.16
+idna==3.3
+install==1.3.5
+itsdangerous==2.1.1
+Jinja2==3.0.3
+Js2Py==0.71
+kiwisolver==1.3.2
+lxml==4.8.0
+MarkupSafe==2.1.0
+matplotlib==3.5.1
+munch==2.5.0
+numpy==1.22.3
+packaging==21.3
+pandas==1.4.1
+Pillow==9.0.1
+pipwin==0.5.1
+pyjsparser==2.7.1
+pyparsing==3.0.7
+PyPrind==2.11.3
+pyproj==3.3.0
+pyshp==2.2.0
+pySmartDL==1.3.4
+python-dateutil==2.8.2
+pytz==2021.3
+pytz-deprecation-shim==0.1.0.post0
+rasterio @ file:///C:/Users/3henr/Downloads/rasterio-1.2.10-cp39-cp39-win_amd64.whl
+requests==2.27.1
+sentinelloader @ git+https://github.com/flaviostutz/sentinelloader@78943816e596cd67245e0357d1af6c703de3f5c1
+sentinelsat==1.1.1
+Shapely==1.8.1.post1
+six==1.16.0
+snuggs==1.4.7
+soupsieve==2.3.1
+tqdm==4.63.0
+tzdata==2021.5
+tzlocal==4.1
+urllib3==1.26.8
+uuid==1.30
+Werkzeug==2.0.3
